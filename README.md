@@ -20,7 +20,7 @@
 
 ## Getting Started
 
-<p>1 - Clone the project with <b>git clone git@github.com:croberttdmello/monsters-rolodex.git</b></p>
+<p>1 - Clone the project with <b>git clone git@github.com:croberttdmello/list-contacts-react.git</b></p>
 <p>2 - Install the dependences with <b>"npm install"</b></p>
 <p>3 - Run the project with <b>"npm start"</b></p>
 
